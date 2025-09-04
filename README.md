@@ -1,25 +1,28 @@
-![WhatsApp Bot Banner](https://i.ibb.co.com/CvZfQXL/whatsapp-bot-banner.png)
-
 # WhatsApp Bot Base 🚀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyraamd/Aokyra/refs/heads/main/IMG_1669.jpeg" alt="Thumbnail"/>
+</p>
 
 Halo kalian! Lagi nyari **base WhatsApp bot terbaru** yang simple tapi powerfull?  
 Repo ini cocok banget buat kalian yang pengen belajar atau langsung pakai bot sendiri.  
+
 Dibangun dengan **Baileys MD (Multi-Device)** dan sudah dioptimalkan supaya:
 
 - ✅ Support **LID (Linked Device ID)** terbaru  
 - ✅ Fix detect **Admin & Bot Admin** (gaada false detect lagi)  
-- ✅ Database simple pakai **JSON** (mudah dipahami & edit manual)  
-- ✅ Command mudah dipahami & gampang dikembangin  
+- ✅ Database simple (mudah dipahami & edit manual)  
+- ✅ Command mudah dipahami & gampang dikembangkan  
 - ✅ Struktur kode clean buat belajar  
 
 ---
 
 ## ✨ Fitur Utama
-- 👋 Welcome/Leave Message  
+- 👋 Welcome & Leave Message  
 - 🔗 Antilink Grup (kick/hapus pesan otomatis)  
-- 🚫 Group Only Mode (bot hanya bisa dipakai di grup kalau diaktifkan)  
+- 🚫 Group Only Mode (bot hanya bisa dipakai di grup jika diaktifkan)  
 - 📂 JSON Database (ga ribet setup DB)  
-- ⚡ Auto detect admin & bot admin (support mode LID)  
+- ⚡ Auto detect admin & bot admin (support LID)  
 
 ---
 
